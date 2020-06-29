@@ -1,2 +1,3 @@
 # gitHubPages
-Personal site for gitHub Pages
+Wesley Valdes DO Resume / CV / Portfolio
+
